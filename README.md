@@ -1,2 +1,2 @@
 # titanic-code
-this is just an obligatory stuff
+To predict who survived and who didn't in the titanic data
